@@ -1,4 +1,4 @@
-# watusyiaaa portfolio
+# watusiyaaa portfolio
 
 This Website purpose is purely for portfolio in discord
 
