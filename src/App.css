@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #5c7c7d;
+  --color-secondary: #bed8d4;
+  --color-tertiary: #709599;
+  --color-quaternary: #28112b;
+}
+
+:root {
+  font-family: "Tektur", sans-serif;
+}
+
+body {
+  background: linear-gradient(
+    180deg,
+    rgba(247, 249, 249, 1) 0%,
+    rgba(190, 216, 212, 1) 75%
+  );
+  background-attachment: fixed;
+  background-size: cover;
+}
