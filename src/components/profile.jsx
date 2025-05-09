@@ -274,10 +274,10 @@ export default function Profile() {
                   <span className="italic underline text-lg">
                     Outside kpop:
                   </span>{" "}
-                  The Internet, Kendrick Lamar, Tyler the Creator, SZA, Doechii,{" "}
+                  Lady Gaga, The Internet, Kendrick Lamar, Tyler the Creator,
+                  SZA,
                   <br />
-                  Sabrina Carpenter, Laufey, Chapell Roan, 5SOS, Bruno Mars,
-                  Joji, Vaundy, King Gnu
+                  Laufey, Chapell Roan, 5SOS, Bruno Mars, Joji, Vaundy, King Gnu
                   <br />
                   Aimer, LiSA, YOASOBI, Yorushika, SawanoHiroyuki[nZk], Hikaru
                   Utada
@@ -309,7 +309,7 @@ export default function Profile() {
                 <hr className="border-b-2 mt-7 mb-8 w-full border-primary" />
 
                 <p className="text-primary italic text-2xl">
-                  I dont accept Friend Request espescially if I dont know that
+                  I dont accept Friend Request especially if I don't know that
                   person
                   <br /> entirely. I'll accept if I know you already and I can
                   trust you (at least)
@@ -318,7 +318,7 @@ export default function Profile() {
                   As for if I send a request to you, I never sent request unless{" "}
                   <br />I need to DM you regarding something (like important
                   things
-                  <br />i dont send if i just need help)
+                  <br />i don't send if i just need help)
                 </p>
 
                 <div className="relative w-full h-20">
